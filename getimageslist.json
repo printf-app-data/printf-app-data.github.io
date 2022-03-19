@@ -14,8 +14,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/1.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/1.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/1.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/1.jpg"
         },
         {
             "VideoId": 2,
@@ -29,8 +29,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/2.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/2.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/2.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/2.jpg"
         },
         {
             "VideoId": 3,
@@ -44,8 +44,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/3.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/3.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/3.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/3.jpg"
         },
         {
             "VideoId": 4,
@@ -59,8 +59,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/4.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/4.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/4.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/4.jpg"
         },
         {
             "VideoId": 5,
@@ -74,8 +74,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/5.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/5.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/5.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/5.jpg"
         },
         {
             "VideoId": 6,
@@ -89,8 +89,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/6.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/6.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/6.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/6.jpg"
         },
         {
             "VideoId": 7,
@@ -104,8 +104,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/7.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/7.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/7.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/7.jpg"
         },
         {
             "VideoId": 8,
@@ -119,8 +119,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/8.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/8.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/8.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/8.jpg"
         },
         {
             "VideoId": 9,
@@ -134,8 +134,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/9.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/9.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/9.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/9.jpg"
         },
         {
             "VideoId": 10,
@@ -149,8 +149,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/10.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/10.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/10.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/10.jpg"
         },
         {
             "VideoId": 11,
@@ -164,8 +164,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/11.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/11.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/11.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/11.jpg"
         },
         {
             "VideoId": 12,
@@ -179,8 +179,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/12.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/12.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/12.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/12.jpg"
         },
         {
             "VideoId": 13,
@@ -194,8 +194,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/13.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/13.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/13.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/13.jpg"
         },
         {
             "VideoId": 14,
@@ -209,8 +209,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/14.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/14.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/14.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/14.jpg"
         },
         {
             "VideoId": 15,
@@ -224,8 +224,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/15.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/15.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/15.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/15.jpg"
         },
         {
             "VideoId": 16,
@@ -239,8 +239,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/16.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/16.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/16.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/16.jpg"
         },
         {
             "VideoId": 17,
@@ -254,8 +254,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/17.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/17.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/17.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/17.jpg"
         },
         {
             "VideoId": 18,
@@ -269,8 +269,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/18.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/18.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/18.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/18.jpg"
         },
         {
             "VideoId": 19,
@@ -284,8 +284,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/19.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/19.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/19.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/19.jpg"
         },
         {
             "VideoId": 20,
@@ -299,8 +299,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/20.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/20.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/20.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/20.jpg"
         },
         {
             "VideoId": 21,
@@ -314,8 +314,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/21.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/21.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/21.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/21.jpg"
         },
         {
             "VideoId": 22,
@@ -329,8 +329,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/22.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/22.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/22.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/22.jpg"
         },
         {
             "VideoId": 23,
@@ -344,8 +344,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/23.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/23.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/23.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/23.jpg"
         },
         {
             "VideoId": 24,
@@ -359,8 +359,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/24.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/24.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/24.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/24.jpg"
         },
         {
             "VideoId": 25,
@@ -374,8 +374,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/25.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/25.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/25.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/25.jpg"
         },
         {
             "VideoId": 26,
@@ -389,8 +389,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/26.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/26.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/26.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/26.jpg"
         },
         {
             "VideoId": 27,
@@ -404,8 +404,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/27.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/27.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/27.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/27.jpg"
         },
         {
             "VideoId": 28,
@@ -419,8 +419,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/28.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/28.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/28.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/28.jpg"
         },
         {
             "VideoId": 29,
@@ -434,8 +434,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/29.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/29.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/29.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/29.jpg"
         },
         {
             "VideoId": 30,
@@ -449,8 +449,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/30.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/30.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/30.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/30.jpg"
         },
         {
             "VideoId": 31,
@@ -464,8 +464,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/31.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/31.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/31.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/31.jpg"
         },
         {
             "VideoId": 32,
@@ -479,8 +479,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/32.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/32.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/32.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/32.jpg"
         },
         {
             "VideoId": 33,
@@ -494,8 +494,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/33.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/33.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/33.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/33.jpg"
         },
         {
             "VideoId": 34,
@@ -509,8 +509,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/34.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/34.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/34.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/34.jpg"
         },
         {
             "VideoId": 35,
@@ -524,8 +524,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/35.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/35.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/35.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/35.jpg"
         },
         {
             "VideoId": 36,
@@ -539,8 +539,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/36.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/36.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/36.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/36.jpg"
         },
         {
             "VideoId": 37,
@@ -554,8 +554,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/37.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/37.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/37.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/37.jpg"
         },
         {
             "VideoId": 38,
@@ -569,8 +569,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/38.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/38.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/38.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/38.jpg"
         },
         {
             "VideoId": 39,
@@ -584,8 +584,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/39.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/39.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/39.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/39.jpg"
         },
         {
             "VideoId": 40,
@@ -599,8 +599,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/40.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/40.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/40.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/40.jpg"
         },
         {
             "VideoId": 41,
@@ -614,383 +614,8 @@
             "Smiles": null,
             "Comments": null,
             "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/41.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/41.jpg"
-        },
-        {
-            "VideoId": 42,
-            "VideoName": "42",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/42.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/42.jpg"
-        },
-        {
-            "VideoId": 43,
-            "VideoName": "43",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/43.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/43.jpg"
-        },
-        {
-            "VideoId": 44,
-            "VideoName": "44",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/44.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/44.jpg"
-        },
-        {
-            "VideoId": 45,
-            "VideoName": "45",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/45.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/45.jpg"
-        },
-        {
-            "VideoId": 46,
-            "VideoName": "46",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/46.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/46.jpg"
-        },
-        {
-            "VideoId": 47,
-            "VideoName": "47",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/47.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/47.jpg"
-        },
-        {
-            "VideoId": 48,
-            "VideoName": "48",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/48.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/48.jpg"
-        },
-        {
-            "VideoId": 49,
-            "VideoName": "49",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/49.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/49.jpg"
-        },
-        {
-            "VideoId": 50,
-            "VideoName": "50",
-            "SrNo": null,
-            "FirstName": "Shruti",
-            "LastName": "Rai",
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/50.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/50.jpg"
-        },
-        {
-            "VideoId": 51,
-            "VideoName": "51",
-            "SrNo": null,
-            "FirstName": "Zarina",
-            "LastName": "Farhan",
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/51.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/51.jpg"
-        },
-        {
-            "VideoId": 52,
-            "VideoName": "52",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/52.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/52.jpg"
-        },
-        {
-            "VideoId": 53,
-            "VideoName": "53",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/53.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/53.jpg"
-        },
-        {
-            "VideoId": 54,
-            "VideoName": "54",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/54.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/54.jpg"
-        },
-        {
-            "VideoId": 55,
-            "VideoName": "55",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/55.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/55.jpg"
-        },
-        {
-            "VideoId": 56,
-            "VideoName": "56",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/56.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/56.jpg"
-        },
-        {
-            "VideoId": 57,
-            "VideoName": "57",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/57.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/57.jpg"
-        },
-        {
-            "VideoId": 58,
-            "VideoName": "58",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/58.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/58.jpg"
-        },
-        {
-            "VideoId": 59,
-            "VideoName": "59",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/59.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/59.jpg"
-        },
-        {
-            "VideoId": 60,
-            "VideoName": "60",
-            "SrNo": null,
-            "FirstName": "Disha",
-            "LastName": "Rao",
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/60.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/60.jpg"
-        },
-        {
-            "VideoId": 61,
-            "VideoName": "61",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/61.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/61.jpg"
-        },
-        {
-            "VideoId": 62,
-            "VideoName": "62",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/62.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/62.jpg"
-        },
-        {
-            "VideoId": 63,
-            "VideoName": "63",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/63.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/63.jpg"
-        },
-        {
-            "VideoId": 64,
-            "VideoName": "64",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/64.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/64.jpg"
-        },
-        {
-            "VideoId": 65,
-            "VideoName": "65",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/65.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/65.jpg"
-        },
-        {
-            "VideoId": 66,
-            "VideoName": "66",
-            "SrNo": null,
-            "FirstName": null,
-            "LastName": null,
-            "Views": null,
-            "Loves": null,
-            "Likes": null,
-            "Smiles": null,
-            "Comments": null,
-            "Location": null,
-            "VideoUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/66.mp4",
-            "ThumbnailUrl": "https://printf.s3.ap-south-1.amazonaws.com/Android+Ads/Video+Chat/content/images/thumbnail/66.jpg"
+            "VideoUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/video/41.mp4",
+            "ThumbnailUrl": "https://raw.githubusercontent.com/printf-app-data/girl-video-chat/main/images/thumbnail/41.jpg"
         }
     ],
     "Message": "Data loaded."
