@@ -12,7 +12,7 @@
                 "InterstitialAdKey": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
                 "RewardedAdKey": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
                 "NativeAdKey": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
-	        },
+	    },
             {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
