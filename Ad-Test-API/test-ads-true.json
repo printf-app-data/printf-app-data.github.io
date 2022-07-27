@@ -30,7 +30,16 @@
                 "InterstitialAdKey": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
                 "RewardedAdKey": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
                 "NativeAdKey": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
-	    }
+	    },
+	{
+		"MonetizationId": 5,
+		"MonetizerName": "UnityAds",
+		"AdAppKey": "4859841",
+		"BannerAdKey": "Banner_Android",
+		"InterstitialAdKey": "Interstitial_Android",
+		"RewardedAdKey": "Rewarded_Android",
+		"NativeAdKey": ""
+	}
         ]
     },
     "Message": "Data loaded."
