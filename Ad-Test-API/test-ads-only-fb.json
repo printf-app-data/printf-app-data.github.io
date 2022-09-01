@@ -1,0 +1,19 @@
+{
+    "Status": true,
+    "HttpStatus": 200,
+    "Data": {
+        "ShowAds": true,
+        "Ads": [
+          {
+                "MonetizationId": 1,
+                "MonetizerName": "Facebook Monetization",
+                "AdAppKey": "",
+                "BannerAdKey": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "InterstitialAdKey": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
+                "RewardedAdKey": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
+                "NativeAdKey": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+	    }
+        ]
+    },
+    "Message": "Data loaded."
+}
