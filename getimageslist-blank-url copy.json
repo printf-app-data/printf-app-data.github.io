@@ -1,0 +1,22 @@
+{
+    "Status": true,
+    "HttpStatus": 200,
+    "Data": [
+        {
+            "VideoId": 1,
+            "VideoName": "1",
+            "SrNo": null,
+            "FirstName": "",
+            "LastName": "",
+            "Views": null,
+            "Loves": null,
+            "Likes": null,
+            "Smiles": null,
+            "Comments": null,
+            "Location": null,
+            "VideoUrl": "",
+            "ThumbnailUrl": ""
+        }
+    ],
+    "Message": "Data loaded."
+}
