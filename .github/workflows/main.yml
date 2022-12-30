@@ -12,7 +12,7 @@ jobs:
       - uses: varunsridharan/action-gitea-mirror@main
         name: " ⏳ Setting Up Mirror"
         with:
-          gitea_host: 'https://codeberg.org'
+          gitea_host: 'https://codeberg.org/printf-app-data/'
           gitea_username: 'printftech'
           gitea_accesstoken: '30c701295e2fc32b8bd23ed0e8fb83ca7e10c56e'
           gitea_gist_prefix: "gist"
