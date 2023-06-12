@@ -15,7 +15,8 @@
             "Comments": null,
             "Location": null,
             "VideoUrl": "",
-            "ThumbnailUrl": ""
+            "ThumbnailUrl": "",
+            "Bg1": ""
         }
     ],
     "Message": "Data loaded."
